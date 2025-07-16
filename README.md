@@ -1,5 +1,4 @@
-# Task
-#  PowerShell Obfuscation Detector
+#PowerShell Obfuscation Detector
 
 This project is a machine learning-based system that detects whether a given PowerShell script is **obfuscated** or **clean** by analyzing its structure and statistical patterns.
 
